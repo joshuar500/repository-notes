@@ -1,0 +1,14 @@
+npm init
+npm install --save react
+npm install --save react-dom
+npm install --save-dev babel-core babel-loader babel-preset-es2015 babel-preset-react
+npm install babel webpack webpack-dev-server
+npm install --save react-router history
+npm install --save reactfire
+npm install --save firebase
+npm install --save axios
+npm install --save rebase
+
+mkdir public
+cd public
+touch 
