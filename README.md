@@ -3,3 +3,12 @@ A webapp written in ReactJS for writing notes about a potential candidate using 
 
 
 `http://joshuar500.github.io/repositorynotes`
+
+
+
+##TODO:
+
+- [ ] Redesign
+- [ ] Update/Delete notes
+- [ ] Repository 'hover for more information'
+- [ ] Repositories can have notes as well
