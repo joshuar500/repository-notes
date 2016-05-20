@@ -6,7 +6,7 @@ A webapp written in ReactJS for writing notes about a potential candidate using 
 
 
 
-##TODO:
+###TODO:
 
 - [ ] Redesign
 - [ ] Update/Delete notes
